@@ -21189,7 +21189,7 @@ object frmMain: TfrmMain
         Touch.InteractiveGestures = [LongTap, DoubleTap]
         Align = Top
         TabOrder = 3
-        KeyboardType = NumberPad
+        KeyboardType = NumbersAndPunctuation
         Position.X = 5.000000000000000000
         Position.Y = 32.000000000000000000
         Margins.Left = 5.000000000000000000
@@ -21204,7 +21204,7 @@ object frmMain: TfrmMain
         Touch.InteractiveGestures = [LongTap, DoubleTap]
         Align = Top
         TabOrder = 4
-        KeyboardType = NumberPad
+        KeyboardType = NumbersAndPunctuation
         Position.X = 5.000000000000000000
         Position.Y = 99.000000000000000000
         Margins.Left = 5.000000000000000000
@@ -21247,7 +21247,7 @@ object frmMain: TfrmMain
         Touch.InteractiveGestures = [LongTap, DoubleTap]
         Align = Top
         TabOrder = 1
-        KeyboardType = NumberPad
+        KeyboardType = NumbersAndPunctuation
         Position.X = 5.000000000000000000
         Position.Y = 166.000000000000000000
         Margins.Left = 5.000000000000000000
